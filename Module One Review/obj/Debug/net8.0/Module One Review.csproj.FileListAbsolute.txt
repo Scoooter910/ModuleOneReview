@@ -1,0 +1,14 @@
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\bin\Debug\net8.0\Module One Review.exe
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\bin\Debug\net8.0\Module One Review.deps.json
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\bin\Debug\net8.0\Module One Review.runtimeconfig.json
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\bin\Debug\net8.0\Module One Review.dll
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\bin\Debug\net8.0\Module One Review.pdb
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\Module One Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\Module One Review.AssemblyInfoInputs.cache
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\Module One Review.AssemblyInfo.cs
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\Module One Review.csproj.CoreCompileInputs.cache
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\Module One Review.dll
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\refint\Module One Review.dll
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\Module One Review.pdb
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\Module One Review.genruntimeconfig.cache
+C:\Users\Scooo\source\repos\Module One Review\Module One Review\obj\Debug\net8.0\ref\Module One Review.dll

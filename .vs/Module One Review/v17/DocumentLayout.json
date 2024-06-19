@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Scooo\\source\\repos\\Module One Review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27DB548D-0891-4E21-8B94-B3DCE0DB101D}|Module One Review\\Module One Review.csproj|c:\\users\\scooo\\source\\repos\\module one review\\module one review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DB548D-0891-4E21-8B94-B3DCE0DB101D}|Module One Review\\Module One Review.csproj|solutionrelative:module one review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\source\\repos\\Module One Review\\Module One Review\\Program.cs",
+              "RelativeDocumentMoniker": "Module One Review\\Program.cs",
+              "ToolTip": "C:\\Users\\Scooo\\source\\repos\\Module One Review\\Module One Review\\Program.cs",
+              "RelativeToolTip": "Module One Review\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:11:45.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
